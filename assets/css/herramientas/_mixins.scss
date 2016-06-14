@@ -1,0 +1,70 @@
+
+@mixin menu {
+	margin-top: $och;	
+	margin-bottom: $ci;
+}
+@mixin enlac {
+	color: $princ;
+	cursor: default;
+	text-decoration: none;
+}
+@mixin tami {
+	width: $cct;
+	height: auto;
+}
+@mixin timg {
+	width: $ochy;
+	height:  $cin;
+}
+@mixin imag {
+	width: $cien;
+	height: auto;
+}
+@mixin precio {
+	color: $gric;
+	text-decoration: line-through;
+}
+@mixin bgimg1 {
+	background-image: url(../images/client-bg.jpg);
+	background-size: $cien;
+	background-repeat: no-repeat;
+	-webkit-filter: brightness($ses);
+	height: $cint;
+	padding: $doc;
+	margin-bottom: $cin;
+	position: static;
+}
+@mixin clientes {
+	width: $ocht;
+	height: auto;
+	position: absolute;
+	margin-top: -$sei;
+}
+@mixin bgima2 {
+	background-image: url(../images/blog3.jpg);
+	background-size: $cien;
+	background-repeat: no-repeat;
+	-webkit-filter: brightness($ses);
+	height: $ses;
+	padding: $doc;
+	margin-bottom: $cin;
+}
+@mixin boton {
+	background-color: $osc;
+	border: none;
+	padding: $px7;
+}
+@mixin tblan {
+	color: $vi;
+	text-decoration: none;
+}
+@mixin ros {
+	width: $set;
+	height: $cint;
+	padding: $tr;
+	background-color: $rosi;
+}
+@mixin espacio {
+	padding-top: $dos;
+	padding-bottom: $dos;
+}

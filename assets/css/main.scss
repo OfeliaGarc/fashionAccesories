@@ -1,0 +1,87 @@
+@import "herramientas/_variables";
+@import "herramientas/_colores";
+@import "herramientas/_mixins";
+
+
+.principl {
+	@include menu;
+}
+.matp {
+	margin-top: $tres;
+}
+.mtop {
+	margin-top: $dos;
+}
+.mrbtt {
+	margin-bottom: $tres;
+}
+.marder {
+	margin-right: $uno;
+}
+.mariz {
+	margin-left: $ci;
+}
+.otml {
+	margin-left: $tres;
+}
+
+.otnv {
+	color: $opuesto;
+}
+.otnv:hover {
+	@include enlac;
+}
+.iimage {
+	@iclude tami;
+}
+.otima {
+	@iclude timg;
+}
+.ima {
+	@include imag;
+}
+.prec {
+	color: $roj;
+}
+.prg {
+	@include precio;
+}
+.deco {
+	border: $px solid $gric;
+}	
+.bg {
+	@include bgimg1;
+}
+.cli {
+	@include clientes;
+}
+.bgi {
+	@include bgima2;
+}
+.txmn {
+	color: $gosc;
+}
+.bo {
+	@include boton;
+}
+.bocar {
+	color: $princ;
+}
+.bocar:hover {
+	@include tblan;
+}
+.bgfoo {
+	background-color: $gric;
+}
+.rosa {
+	@include ros;
+}
+.ro {
+	color: $rosi;
+}
+.fotr {
+	background-color: $foo;
+}
+.esp {
+	@include espacio;
+}

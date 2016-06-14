@@ -1,0 +1,110 @@
+.principl {
+  margin-top: 8em;
+  margin-bottom: 5em; }
+
+.matp {
+  margin-top: 3em; }
+
+.mtop {
+  margin-top: 2em; }
+
+.mrbtt {
+  margin-bottom: 3em; }
+
+.marder {
+  margin-right: 1em; }
+
+.mariz {
+  margin-left: 5em; }
+
+.otml {
+  margin-left: 3em; }
+
+.otnv {
+  color: #181818; }
+
+.otnv:hover {
+  color: #ffffff;
+  cursor: default;
+  text-decoration: none; }
+
+.iimage {
+  @iclude tami; }
+
+.otima {
+  @iclude timg; }
+
+.ima {
+  width: 100%;
+  height: auto; }
+
+.prec {
+  color: #ff1a1a; }
+
+.prg {
+  color: #c8c8c8;
+  text-decoration: line-through; }
+
+.deco {
+  border: 1px solid #c8c8c8; }
+
+.bg {
+  background-image: url(../images/client-bg.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  -webkit-filter: brightness(60%);
+  height: 50%;
+  padding: 12%;
+  margin-bottom: 5%;
+  position: static; }
+
+.cli {
+  width: 80%;
+  height: auto;
+  position: absolute;
+  margin-top: -6em; }
+
+.bgi {
+  background-image: url(../images/blog3.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  -webkit-filter: brightness(60%);
+  height: 60%;
+  padding: 12%;
+  margin-bottom: 5%; }
+
+.txmn {
+  color: #b8b8b8; }
+
+.bo {
+  background-color: #585858;
+  border: none;
+  padding: 7px; }
+
+.bocar {
+  color: #ffffff; }
+
+.bocar:hover {
+  color: #e600ac;
+  text-decoration: none; }
+
+.bgfoo {
+  background-color: #c8c8c8; }
+
+.rosa {
+  width: 75%;
+  height: 50%;
+  padding: 3%;
+  background-color: #ff4d4d; }
+
+.ro {
+  color: #ff4d4d; }
+
+.fotr {
+  background-color: #505050; }
+
+.esp {
+  padding-top: 2em;
+  padding-bottom: 2em; }
+
+/*# sourceMappingURL=main.css.map */
